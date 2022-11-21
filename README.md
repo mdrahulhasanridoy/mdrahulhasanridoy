@@ -261,6 +261,5 @@
 
 
 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
-
+<h3>🏷️ Holopin Badges</h3>
   <p><a href="https://www.holopin.io/@mdrahulhasanridoy"><img src="https://holopin.me/mdrahulhasanridoy" alt="@denvercoder1&#39;s Holopin board"></a></p>
