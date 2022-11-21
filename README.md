@@ -5,7 +5,38 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{mdrahulhasanridoy}/count.svg" alt="mdrahulhasanridoy :: Visitor's Count" /></p>
 
+
+
+- 👋 Hi, I’m @mdrahulhasanridoy
+-  :school: I'm currently studing in ... United International University
+- 👀 I’m interested in ... Programming
+- 🌱 I’m currently learning ... C Programming
+- 💞️ I’m looking to collaborate on ... Any of project
+- 🤔 I’m looking for help with ... Coding
+- 💬 Ask me about ... What ever.... :laughing:
+- 😄 Pronouns: ... He
+- ⚡ Fun fact: ... Run Coding when get bored
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Ridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrahulhasanridoy&theme=chartreuse-dark&show_icons=true)                                     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrahulhasanridoy&theme=chartreuse-dark)](https://git.io/streak-stats)
+
+
+
+
 
 
 [![Ridoy's github activity graph](https://activity-graph.herokuapp.com/graph?username=mdrahulhasanridoy&theme=chartreuse-dark)](https://github.com/mdrahulhasanridoy/github-readme-activity-graph)
@@ -28,12 +59,45 @@
 
 
 
-- 👋 Hi, I’m @mdrahulhasanridoy
--  :school: I'm currently studing in ... United International University
-- 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... C Programming
-- 💞️ I’m looking to collaborate on ... Any of project
-- 🤔 I’m looking for help with ... Coding
-- 💬 Ask me about ... What ever.... :laughing:
-- 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Run Coding when get bored
+
+
+
+
+
+### Languages and Tools:
+<div display="flex">
+  
+  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+</div>
+
+
+
+
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mdrahulhasanridoy/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/mdrahulhasanridoy/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/mdrahulhasanridoy2000/)
+
+
+
+
+![Ridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrahulhasanridoy&theme=chartreuse-dark&show_icons=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
