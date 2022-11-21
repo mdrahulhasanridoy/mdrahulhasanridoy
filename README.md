@@ -3,6 +3,7 @@
 <h2 align="center">Github stats :skull_and_crossbones:</h2>
 <h4 align="center">Visitor's count :green_circle:</h4>
 
+
 <p align="center"><img src="https://profile-counter.glitch.me/{mdrahulhasanridoy}/count.svg" alt="mdrahulhasanridoy :: Visitor's Count" /></p>
 
 
@@ -17,6 +18,8 @@
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ... Run Coding when get bored
 
+
+
 🤙 The list of ways to contact me is below
 
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/mdrahulhasanridoy2000/)
@@ -25,33 +28,23 @@
 
 
 
+<h3>🔥 Streak Stats</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrahulhasanridoy&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 
 
 
+<h3> :octocat: GitHub Profile Stats</h3>
 
-
-
-
-
-
-![Ridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrahulhasanridoy&theme=chartreuse-dark&show_icons=true)                                     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrahulhasanridoy&theme=chartreuse-dark)](https://git.io/streak-stats)
-
-
-
-
-
+![Ridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrahulhasanridoy&theme=chartreuse-dark&show_icons=true)ㅤㅤ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrahulhasanridoy&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ridoy's github activity graph](https://activity-graph.herokuapp.com/graph?username=mdrahulhasanridoy&theme=chartreuse-dark)](https://github.com/mdrahulhasanridoy/github-readme-activity-graph)
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrahulhasanridoy&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-### Machine:
+### 🐛 Machine:
 <div display="flex">
   <img src="https://img.shields.io/badge/windows-MSI GF75%20THIN%209SC-%23F50F0F.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/ubuntu-MSI%20GF75%20THIN 9sc-%23dd4814.svg?&style=for-the-badge&logo=ubuntu&logoColor=white">
@@ -61,13 +54,7 @@
 <br>
 
 
-
-
-
-
-
-
-### Languages and Tools:
+### 🐊 Languages and Tools:
 <div display="flex">
   
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
@@ -75,28 +62,6 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
-
-
-
-
-
-
-
-
-
-
-![Ridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrahulhasanridoy&theme=chartreuse-dark&show_icons=true)
-
-
-
-
-
-
-
-
-
-
-
 
 
 
