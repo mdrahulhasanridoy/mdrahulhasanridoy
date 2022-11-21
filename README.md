@@ -17,3 +17,23 @@
 
 
 
+### Machine:
+<div display="flex">
+  <img src="https://img.shields.io/badge/windows-MSI GF75%20THIN%209SC-%23F50F0F.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/ubuntu-MSI%20GF75%20THIN 9sc-%23dd4814.svg?&style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/intel-core I5%20%209300H-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia- GeForece GTX%20Ti 1650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</div>
+<br>
+
+
+
+- 👋 Hi, I’m @mdrahulhasanridoy
+-  :school: I'm currently studing in ... United International University
+- 👀 I’m interested in ... Programming
+- 🌱 I’m currently learning ... C Programming
+- 💞️ I’m looking to collaborate on ... Any of project
+- 🤔 I’m looking for help with ... Coding
+- 💬 Ask me about ... What ever.... :laughing:
+- 😄 Pronouns: ... He
+- ⚡ Fun fact: ... Run Coding when get bored
