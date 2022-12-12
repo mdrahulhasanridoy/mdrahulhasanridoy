@@ -30,18 +30,20 @@
 
 <h3>🔥 Streak Stats</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrahulhasanridoy&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrahulhasanridoy&theme=merko)](https://git.io/streak-stats)
 
 
 
 
 <h3> :octocat: GitHub Profile Stats</h3>
 
-![Ridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrahulhasanridoy&theme=chartreuse-dark&show_icons=true) 
+![Ridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrahulhasanridoy&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrahulhasanridoy&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrahulhasanridoy&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ridoy's github activity graph](https://activity-graph.herokuapp.com/graph?username=mdrahulhasanridoy&theme=chartreuse-dark)](https://github.com/mdrahulhasanridoy/github-readme-activity-graph)
+
+
+[![Ridoy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mdrahulhasanridoy&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
