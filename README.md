@@ -41,9 +41,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrahulhasanridoy&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-[![Ridoy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mdrahulhasanridoy&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ridoy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdrahulhasanridoy&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
