@@ -32,7 +32,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrahulhasanridoy&theme=merko)](https://git.io/streak-stats)
 
-<h3> 🥷Competitive Programming </h3>
+
+<h3>🥷Competitive Programming</h3>
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mdrahulhasanridoy&theme=merko)](https://codeforces.com/profile/mdrahulhasanridoy)]
 
