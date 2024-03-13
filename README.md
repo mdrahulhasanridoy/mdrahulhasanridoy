@@ -1,9 +1,23 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=34F700&multiline=true&repeat=false&random=false&width=435&lines=%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D9%84%D8%A7%D9%8E%D9%85%D9%8F+%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8F%D9%85%D9%92+%D9%88%D9%8E%D8%B1%D9%8E%D8%AD%D9%92%D9%85%D9%8E%D8%A9%D9%8F+%D8%A7%D9%84%D9%84%D9%87%D9%90+%D9%88%D9%8E%D8%A8%D9%8E%D8%B1%D9%8E%D9%83%D9%8E%D8%A7%D8%AA%D9%8F%D9%87%D9%8F)
+<div align = "center">
+<p align = "justify">
+     
+```csharp
+السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+-----------------------------------------------------------------------------------
+Username: Md. Rahul Hasan Ridoy 「হৃদয়」
 
-![](https:///counter.moonlab.top/counter/img?id=https://github.com/mdrahulhasanridoy)
+OS: Windows
+Shell: zsh 5.9
+Pronouns: He/Him
+Languages: C, C++, Java, Markdown
+Hobbies: watching anime,coding while I am listening music
+
+```
+
+</p>
+</div>
 
 <img src="//counter.moonlab.top/counter/img?id=UniqueID"></img>
-
 
 <div>
 <h2 align="center"> 🔎Knowledge📖 </h2>
