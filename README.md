@@ -7,7 +7,7 @@
 Username: Md. Rahul Hasan Ridoy 「হৃদয়」
 
 OS: Windows
-Shell: zsh 5.9
+Shell: pwsh 7.4.1
 Pronouns: He/Him
 Languages: C, C++, Java, Markdown
 
