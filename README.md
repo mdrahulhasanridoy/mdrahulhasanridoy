@@ -5,15 +5,18 @@
 <img src="//counter.moonlab.top/counter/img?id=UniqueID"></img>
 
 
-- 👋 Hi, I’m @mdrahulhasanridoy
--  :school: I'm currently studing in ... United International University
-- 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... C Programming
-- 💞️ I’m looking to collaborate on ... Any of project
-- 🤔 I’m looking for help with ... Coding
-- 💬 Ask me about ... What ever.... :laughing:
-- 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Run Coding when get bored
+<div>
+<h2 align="center"> 🔎Knowledge📖 </h2>
+</div>
+<div align = "center">
+<p align = "justify">I love cyber security.
+So I do my best in every specialtation area. In other hand, My knowledge languages are Bangla (Native), English (B2 ~ C1), German (A1), Hindi (A2). Check my repositories and give your opinion I'll do my best and be better every day. <br></p>
+<p align = "center">
+     <a href="https://skillicons.dev">
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,git,github,java,latex,c,cpp,css,html,md,obsidian&perline=6"alt="My Skills"/> 
+    </a>
+</p>
+</div>
 
 
 <h3>🔥 Streak Stats</h3>
