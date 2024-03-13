@@ -32,25 +32,29 @@ So I do my best in every specialtation area. In other hand, My knowledge languag
 </p>
 </div>
 
+<h2 align = "center"> 📉 GitHub Stats</h2>
+<div> 
+<p align = "center">
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=mdrahulhasanridoy&count_private=true&theme=merko&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mdrahulhasanridoy&theme=merko&hide_border=false&date_format=%5BY%20%5DM%20j"/>
+    </a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img width="120%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=mdrahulhasanridoy&theme=merko"/>
+    </a>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdrahulhasanridoy&theme=2077"
 
-<h3>🔥 Streak Stats</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrahulhasanridoy&theme=merko)](https://git.io/streak-stats)
+</p>
+</div>
 
 
 <h3>🥷Competitive Programming</h3>
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mdrahulhasanridoy&theme=merko)](https://codeforces.com/profile/mdrahulhasanridoy)
-
-
-
-<h3> :octocat: GitHub Profile Stats</h3>
-
-![Ridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrahulhasanridoy&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrahulhasanridoy&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ridoy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdrahulhasanridoy&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <h3>🏷️ Holopin Badges</h3>
   <p><a href="https://www.holopin.io/@mdrahulhasanridoy"><img src="https://holopin.me/mdrahulhasanridoy" alt="@denvercoder1&#39;s Holopin board"></a></p>
