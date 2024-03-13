@@ -10,7 +10,6 @@ OS: Windows
 Shell: zsh 5.9
 Pronouns: He/Him
 Languages: C, C++, Java, Markdown
-Hobbies: watching anime,coding while I am listening music
 
 ```
 
