@@ -49,11 +49,6 @@ So I do my best in every specialtation area. In other hand, My knowledge languag
 
 </p>
 </div>
-
-
-<h3>🥷Competitive Programming</h3>
-
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mdrahulhasanridoy&theme=merko)](https://codeforces.com/profile/mdrahulhasanridoy)
   
 <h3>🏷️ Holopin Badges</h3>
   <p><a href="https://www.holopin.io/@mdrahulhasanridoy"><img src="https://holopin.me/mdrahulhasanridoy" alt="@denvercoder1&#39;s Holopin board"></a></p>
