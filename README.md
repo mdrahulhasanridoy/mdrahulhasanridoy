@@ -45,7 +45,7 @@ So I do my best in every specialtation area. In other hand, My knowledge languag
         <img width="120%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=mdrahulhasanridoy&theme=merko"/>
     </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdrahulhasanridoy&theme=2077"
+        <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdrahulhasanridoy&theme=merko"
 
 
 </p>
