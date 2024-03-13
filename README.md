@@ -35,23 +35,23 @@ So I do my best in every specialtation area. In other hand, My knowledge languag
 <div> 
 <p align = "center">
     <a href="https://github-readme-stats.vercel.app">
-        <img width="39%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=mdrahulhasanridoy&count_private=true&theme=merko&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=mdrahulhasanridoy&count_private=true&theme=merko&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="39%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mdrahulhasanridoy&theme=merko&hide_border=false&date_format=%5BY%20%5DM%20j"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mdrahulhasanridoy&theme=merko&hide_border=false&date_format=%5BY%20%5DM%20j"/>
     </a>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img width="49%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=mdrahulhasanridoy&theme=merko"/>
+        <img width="95%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=mdrahulhasanridoy&theme=merko"/>
     </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img width="49%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdrahulhasanridoy&theme=merko"
+        <img width="95%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdrahulhasanridoy&theme=merko"
 
 
 </p>
 </div>
   
 <h3>🏷️ Holopin Badges</h3>
-  <p><a href="https://www.holopin.io/@mdrahulhasanridoy"><img width="49%" src="https://holopin.me/mdrahulhasanridoy" alt="@denvercoder1&#39;s Holopin board"></a></p>
+  <p><a href="https://www.holopin.io/@mdrahulhasanridoy"><img src="https://holopin.me/mdrahulhasanridoy" alt="@denvercoder1&#39;s Holopin board"></a></p>
   
   
     
