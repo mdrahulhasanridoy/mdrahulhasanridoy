@@ -26,7 +26,7 @@ Languages: C, Java, Markdown
 So I do my best in every specialtation area. In other hand, My knowledge languages are Bangla (Native), English (B2 ~ C1). Check my repositories and give your opinion I'll do my best and be better every day. <br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,git,github,java,js,latex,c,cpp,css,html,md,&perline=6"alt="My Skills"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,git,github,java,latex,c,md,&perline=4"alt="My Skills"/> 
     </a>
 </p>
 </div>
