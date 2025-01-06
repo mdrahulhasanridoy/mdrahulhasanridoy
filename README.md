@@ -6,7 +6,7 @@
 -----------------------------------------------------------------------------------
 Username: Md. Rahul Hasan Ridoy 「হৃদয়」
 
-OS: Windows 11 & Linux
+OS: Windows & Linux
 Shell: sh
 Pronouns: He/Him
 Languages: C, Java, Markdown
